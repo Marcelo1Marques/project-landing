@@ -75,3 +75,7 @@
 .table {
     display: table;
 }
+
+.content {
+    content: '';
+}
