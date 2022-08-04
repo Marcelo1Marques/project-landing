@@ -67,7 +67,6 @@
     }
 }
 
-
 .overflow {
     overflow: hidden;
 }
@@ -78,4 +77,48 @@
 
 .content {
     content: '';
+}
+
+/*Flex*/
+
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.min-h-full {
+    min-height: 100%;
+}
+
+.max-w-full {
+    max-width: 100%;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-grey {
+    background-color: #292a33;
+}
+
+/*Buttons*/
+
+.block {
+    display: inline-block;
+}
+
+.no-underline {
+    text-decoration-line: none;
 }
