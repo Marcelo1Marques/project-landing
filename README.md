@@ -24,3 +24,12 @@ TailwindCSS, W3Schools, Boostrap5, NicePage
 
 # Explanation of the project
 The project served to learn how to use Bootstrap and its library, alongside the other elements learned beforehand and to complement it with a responsive design by recreating a given website via NicePage.
+
+# GTMetrix Score
+
+Grade B
+
+Performance - 84%
+
+Structure - 88%
+
